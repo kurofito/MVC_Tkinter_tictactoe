@@ -7,7 +7,7 @@ Warning: You won't be able to beat hard level computer.
 
 A picture of the GUI tic tac toe
 
-![tic](https://user-images.githubusercontent.com/61360055/114814114-783d6980-9dee-11eb-87a4-27fe8fb79018.png)
+![t2](https://user-images.githubusercontent.com/61360055/114814862-09f9a680-9df0-11eb-8ab2-abd0d04d57e8.png)
 
 
 Enjoy!
