@@ -5,7 +5,7 @@ You can play against a human or a computer. There are three levels of computer o
 
 Warning: You won't be able to beat hard level computer.
 
-Pictures of the GUI tic tac toe
+A picture of the GUI tic tac toe
 
 ![tic](https://user-images.githubusercontent.com/61360055/114814114-783d6980-9dee-11eb-87a4-27fe8fb79018.png)
 
