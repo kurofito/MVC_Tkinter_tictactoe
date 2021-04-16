@@ -1,4 +1,4 @@
-# Tkinter tictactoe with MVC design pattern
+# Tkinter tic tac toe with MVC design pattern
 Built a GUI tic tac toe with tkinter by implementing MVC design pattern.
 
 You can play against a human or a computer. There are three levels of computer one can choose: easy or medium or hard.
